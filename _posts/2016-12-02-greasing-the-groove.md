@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greasing the Groove"
-date: 2016-12-30 22:00:00
+date: 2016-12-02 22:00:00
 categories: scripting training
 ---
 
