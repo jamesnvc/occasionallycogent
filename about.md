@@ -19,7 +19,7 @@ Still love cycling and swimming though!
 <figure class="author-pic">
 <img src="/images/a_portrait_of_the_artist_as_a_cave_troll.jpg" alt="it me">
 <figcaption>
-I emerge from my subterrian layer.
+I emerge from my subterranean layer.
 Photo by the lovely & talented <a href="https://instagram.com/magic.santos/">Amanda Santos</a>
 </figcaption>
 </figure>
