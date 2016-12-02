@@ -203,6 +203,8 @@ Yay!
 
 ![it works](/images/grooving/demo.gif)
 
+You can have a look at all the config & code in situ along with a bunch of other stuff in my [dotfiles repo][dotfiles]
+
   [i3m]: http://i3wm.org/
   [i3blocks]: https://github.com/vivien/i3blocks
   [braid]: https://github.com/braidchat/braid
@@ -210,3 +212,4 @@ Yay!
   [eevee-py3]: https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/
   [adding-i3-blocks]: https://github.com/vivien/i3blocks/wiki/Writing-Your-Own-Blocklet
   [tkinter]: https://docs.python.org/3.5/library/tkinter.html#the-window-manager
+  [dotfiles]: https://github.com/jamesnvc/dotfiles
