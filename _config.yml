@@ -4,7 +4,7 @@ email: james.cash@occasionallycogent.com
 description: > # this means to ignore newlines until "baseurl:"
   Writing stuff that catches my fancy.  Probably programming, maybe lifting things?
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://occasionallycogent.com" # the base hostname & protocol for your site
 twitter_username: jamesnvc
 github_username:  jamesnvc
 instagram_username: jamesnvc
