@@ -109,7 +109,9 @@ signal=12
 markup=pango
 {% endhighlight %}
 
-This makes the output of my script show up in my status bar ![status bar output](/images/grooving/status_bar.png)
+This makes the output of my script show up in my status bar
+
+{% include image.html url="/images/grooving/status_bar.png" alt="status bar output" caption="Greasing the Groove in the status bar" %}
 
 Note that in the block, I both gave it an interval to refresh on and a signal, so it will run the script to re-update the text in the bar both every sixty seconds *and* whenever i3blocks recieves a signal with value 12 (i.e. SIGUSR2).
 The docs recommend against this, but I needed to do so in this case:
@@ -124,7 +126,7 @@ Since i3blocks can tell the script when it recieves a mouse click (by invoking t
 Doing some reading around, it seemed like the easiest way to do this in Python is using `tkinter`.
 I managed to make a very simple little GUI popup using the [tkinter docs][tkinter].
 
-![the simple input program](/images/grooving/popup.png)
+{% include image.html url="/images/grooving/popup.png" alt="input dialog" caption="Just a lil' popup" %}
 
 No buttons, it just adds when you hit return in a text field.
 
@@ -201,7 +203,7 @@ This is done by adding a line to my `~/.i3/config` like this: `for_window [title
 
 Yay!
 
-![it works](/images/grooving/demo.gif)
+{% include image.html url="/images/grooving/demo.gif" alt="Demo gif" caption="It works!" %}
 
 You can have a look at all the config & code in situ along with a bunch of other stuff in my [dotfiles repo][dotfiles]
 
