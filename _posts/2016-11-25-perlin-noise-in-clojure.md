@@ -46,7 +46,7 @@ The background updates fairly infrequently (depending on how fast your browser c
 
 {% include image.html url="/images/perlin/site.png" alt="site screenshot" caption="Check out that sweet random -- but smooth! -- noise" %}
 
-Check out the [site][sadie] (and use the arrow keys to fly the baluch around) and have a look at the [code][source].
+Check out the [site][sadie][^2] (and use the arrow keys to fly the baluch around) and have a look at the [code][source].
 
   [sadie]: http://sadiemae.rocks
   [omnext]: https://github.com/omcljs/om/wiki/Quick-Start-(om.next)
@@ -62,3 +62,4 @@ Check out the [site][sadie] (and use the arrow keys to fly the baluch around) an
   [transit]: https://github.com/cognitect/transit-cljs
 
   [^1]: Long story, but basically we have a family tradition of everyone having an animal, and for some reason my mum's branch of the family has weird animals - my sister and one of my brothers are baluchitherium, these weird prehistoric creatures. I happen to be a pterodactyl.
+  [^2]: Probably don't leave it open too long though - it will devour as much CPU as it can to push out the noise.
