@@ -8,7 +8,7 @@ categories: scripting training
 ## Introduction
 
 There is a theory from the well-known and, uh, interesting strength trainer Pavel Tstsouline that a very efficient way to get stronger is by a method he calls "greasing the groove".
-The idea is that you perform the given exercise for a relatively few number of repititions (i.e. few enough that each rep is with perfect form) many times throughout the day.
+The idea is that you perform the given exercise for a relatively few number of repetitions (i.e. few enough that each rep is with perfect form) many times throughout the day.
 In this manner, you get in a large total volume of work over the course of the entire day, where each rep is ingraining perfect form (as opposed to training to failure, or lifting in a concentrated session, where fatigue begins to accumulate).
 
 It is a fun way of training stuff if you have the means and, since I work from home and have a home gym, it seems like something that would be very easy to experiment with.
@@ -24,12 +24,12 @@ Now, it was time to write some code.
 
 I've been [writing lots of Clojure][braid] for the last few years (and I really enjoy it) but this sort of little script is not the domain that Clojure is good in.
 I've also been [dabbling with Rust][octocat] and think it is very cool, but for something that I wanted just whip off quickly I decided to go with my old go-to -- Python.
-I've also been reading [about Python 3 being great][eevee-py3] and I don't think I've actually used 3 before (although there aren't really many substantial differents between 2.7 and 3.5 that I've encountered).
+I've also been reading [about Python 3 being great][eevee-py3] and I don't think I've actually used 3 before (although there aren't really many substantial differences between 2.7 and 3.5 that I've encountered).
 
 ## Part One
 
 Whenever making something, I like to start by just doing the backend database stuff -- I am not a frontend kind of person and that's the part I enjoy the most.
-I decided just using a sqlite database would be the easiest way to store the data - a CSV or plain-text might be more straightforward, but I thought that firstly, Python has a solid sqlite library, secondly this will save me from having to parse dates and stuff, and thridly this will enable me to do analytics and stuff in the future.
+I decided just using a sqlite database would be the easiest way to store the data - a CSV or plain-text might be more straightforward, but I thought that firstly, Python has a solid sqlite library, secondly this will save me from having to parse dates and stuff, and thirdly this will enable me to do analytics and stuff in the future.
 
 So, just making a script that can create a database, add a number of reps to an exercise, and see all the exercise for the current day, got me something like this (in a file in my `~/bin` named `grooving.py`):
 
@@ -113,7 +113,7 @@ This makes the output of my script show up in my status bar
 
 {% include image.html url="/images/grooving/status_bar.png" alt="status bar output" caption="Greasing the Groove in the status bar" %}
 
-Note that in the block, I both gave it an interval to refresh on and a signal, so it will run the script to re-update the text in the bar both every sixty seconds *and* whenever i3blocks recieves a signal with value 12 (i.e. SIGUSR2).
+Note that in the block, I both gave it an interval to refresh on and a signal, so it will run the script to re-update the text in the bar both every sixty seconds *and* whenever i3blocks receives a signal with value 12 (i.e. SIGUSR2).
 The docs recommend against this, but I needed to do so in this case:
 I want it to update on demand, when we add a new exercise, but I also don't want to see yesterday's information at the beginning of a day before I've tracked anything.
 
@@ -122,7 +122,7 @@ Now, I can use python in a terminal to add a new exercise and then run `$ pkill 
 ## Part Three
 
 While I can manually add things in the console, the whole point of this exercise was to make it frictionless, so I wanted something more ergonomic.
-Since i3blocks can tell the script when it recieves a mouse click (by invoking the script with the environment variable `BLOCK_BUTTON` set to a number indicating which button was pressed), I wanted some way to have the script present a GUI to let me quickly type in the exercise and number of reps.
+Since i3blocks can tell the script when it receives a mouse click (by invoking the script with the environment variable `BLOCK_BUTTON` set to a number indicating which button was pressed), I wanted some way to have the script present a GUI to let me quickly type in the exercise and number of reps.
 Doing some reading around, it seemed like the easiest way to do this in Python is using `tkinter`.
 I managed to make a very simple little GUI popup using the [tkinter docs][tkinter].
 
