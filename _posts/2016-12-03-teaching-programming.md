@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teaching Programming"
+date: 2016-12-03 16:46:26
 categories: programming teaching
 ---
 
