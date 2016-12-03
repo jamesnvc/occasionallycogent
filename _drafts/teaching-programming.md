@@ -36,8 +36,11 @@ Again, I don't want to diminish the importance of learning the fundamentals and 
 I think there's also a case to made for it being easier to appreciate the basics when you've seen the things that can be built atop them and used them in practice.
 
 There is a level of institutional elitism in some programmers that promulgates the belief that people who lack substantial knowledge of the arcana of not just computer science, but the deep details of programming languages, environments, and tools, are not "real" programmers.
-I think this is very detrimental to everyone -- not only does it make it harder for new people to enter the community, but it can hinder efforts to make things better for us all.
-I wonder sometimes if part of the reason so many of our tools are such a pain to learn and use is so we can take pride in having learned how to use this pain-in-the-ass thing.
+I think this is very detrimental to everyone -- not only does it make it harder for new people to enter the community, but it can hinder efforts to make things better for us all
+(I wonder sometimes if part of the reason so many of our tools are such a pain to learn and use is so that we can take pride in having learned how to use this pain-in-the-ass thing).
+
+We need to realize that teaching programming is no longer a purely academic pursuit.
+There are absolutely academic aspects to it, but working as a programmer has much more in common with working as a carpenter than a mathematician and I think we should adapt our teaching methods to recognize that.
 
   [lighthouse]: https://www.lighthouselabs.ca/
   [cognitory]: https://github.com/cognitory
