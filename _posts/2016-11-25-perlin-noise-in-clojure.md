@@ -40,7 +40,7 @@ Luckily, there's a (relatively) new Javascript API for [WebWorkers][webworkers] 
 Reading how it worked, it seemed like it was going to be kind of complicated to use, especially since I wasn't writing Javascript directly, but compiling from ClojureScript.
 
 Fortunately, there's a solid ClojureScript library called [servant][] that wraps WebWorker stuff and makes in fairly easy to have some ClojureScript code run in a background thread!
-I remainly slightly unclear about how data gets passed in and out of the `servant` functions, but eventually I got things working by just passing in primitive data and encoding the return values of the functions using [`transit`][transit].
+I remain slightly unclear about how data gets passed in and out of the `servant` functions, but eventually I got things working by just passing in primitive data and encoding the return values of the functions using [`transit`][transit].
 
 The background updates fairly infrequently (depending on how fast your browser can render each frame), but it works!
 
