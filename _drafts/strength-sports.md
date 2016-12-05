@@ -53,12 +53,17 @@ Both lifts are very technical and performed at very high speeds.
 
 The snatch is simply bringing the bar from the ground to overhead in one smooth movement.
 
-{% include image.html url="http://i.giphy.com/7UlpDeliqdoqs.gif" alt="Olympic snatch" caption="The snatch" %}
+<figure>
+<iframe src="//giphy.com/embed/7UlpDeliqdoqs?html5=true" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<figcaption>The snatch</figcaption>
+</figure>
 
 The clean & jerk is two movements -- in the first part, the bar is brought from the ground to the shoulders in one motion (the clean), then the lifter dips under the bar and "jerks" it overhead.
 
-{% include image.html url="http://i.giphy.com/mBz3KKyGH85pK.gif" alt="Olympic Clean and Jerk" caption="The clean and jerk" %}
-
+<figure>
+<iframe src="//giphy.com/embed/mBz3KKyGH85pK?html5=true" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<figcaption>The clean and jerk</figcaption>
+</figure>
 
 # Sports I do do
 
