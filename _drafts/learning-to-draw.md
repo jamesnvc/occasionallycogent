@@ -21,6 +21,6 @@ I'm glad I did this and I'm thinking of new challenges to take on next year.
 I don't think my drawing has got substantially better over the year, mostly because I was more concerned with consistency and, especially in the later half of the year, I didn't have much time to spend on each drawing.
 The most important thing for me is just having become comfortable drawing things when I need to and being able to do so quickly.
 
-Next year, I'd like to try out digital drawing.
+Next year, I'd like to try out digital drawing...we'll see!
 
   [eevee]: https://eev.ee
