@@ -53,20 +53,18 @@ Both lifts are very technical and performed at very high speeds.
 
 The snatch is simply bringing the bar from the ground to overhead in one smooth movement.
 
-<figure>
-<iframe src="//giphy.com/embed/7UlpDeliqdoqs?html5=true" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<figcaption>The snatch</figcaption>
-</figure>
+{% include giphy.html giphy="7UlpDeliqdoqs" width=480 height=269 caption="The snatch" %}
 
 The clean & jerk is two movements -- in the first part, the bar is brought from the ground to the shoulders in one motion (the clean), then the lifter dips under the bar and "jerks" it overhead.
 
-<figure>
-<iframe src="//giphy.com/embed/mBz3KKyGH85pK?html5=true" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<figcaption>The clean and jerk</figcaption>
-</figure>
+{% include giphy.html giphy="mBz3KKyGH85pK" width=480 height=282 caption="The clean and jerk" %}
 
-Both these movements, while requiring a great deal of strength to do with very heavy weights (which is obviously the goal), also necessitate incredible speed, mobility, power, and technique.
+Both these movements, while requiring a great deal of strength to do with very heavy weights (which is obviously the goal), also necessitate incredible speed, mobility, power, and technique to do them at all.
 While most other strength sports will let you substitute strength for technique to a certain extent, or muscle your way out of a bad position, in weightlifting being off by a centimeter can mean the difference between easily lifting a weight and completely missing.
+
+Weightlifting competitions involve each lifter taking three attempts at each lift and trying to get the highest total -- i.e. the sum of their best snatch and best clean & jerk.
+The weights for subsequent attempts must increase on success and can stay the same or increase if failed.
+Attempts in Olypmic lifting usually increase by fairly small amounts, typically a kilo or two.
 
 While I don't do Olypmic weightlifting myself (it is way too frustrating for me -- barely missing lifts not for want of strength, but for minor technique errors is not my thing), I do use some of the movements in my training.
 For throwing, the snatch and clean are very useful for training power development and transfer of force from the lower body to upper -- exactly what you need to throw things far!
@@ -77,6 +75,13 @@ For throwing, the snatch and clean are very useful for training power developmen
 
 The first strength sport I became involved in is powerlifting.
 It's a fairly common one to learn about when first getting into lifting weights, because it's essentially the sport of doing three of the most popular/important lifts: The squat, bench press, and deadlift.
+
+{% include giphy.html giphy="3o7TKEsvu1qKuiUiaI" width=480 height=270 caption="The Squat" %}
+
+Like Olypmic weightlifting, powerlifting is about trying to make the highest total by adding the best successful squat, bench press, and deadlift, with three attempts allowed for each lift and the same rule about weight increases as weightlifting.
+
+Unlike Olypmic weightlifting, the lifts are far less technical.
+While there can be a great deal of depth when it comes to mastering each lift, one can get started in powerlifting pretty quickly
 
 ## Strongman
 
