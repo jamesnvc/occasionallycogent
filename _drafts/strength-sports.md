@@ -71,17 +71,40 @@ For throwing, the snatch and clean are very useful for training power developmen
 
 # Sports I do do
 
+Over the last couple years, I've competed in powerlifting, strongman, and highland games (also known as the Scottish Heavy Events), getting into the sports in that order.
+
 ## Powerlifting
 
 The first strength sport I became involved in is powerlifting.
 It's a fairly common one to learn about when first getting into lifting weights, because it's essentially the sport of doing three of the most popular/important lifts: The squat, bench press, and deadlift.
 
+In the context of strength training, "the squat" refers a barbell back squat (although there are other variations that athletes sometimes use as well).
+It entails putting the loaded barbell across the back (either high on the trapezius or low on the rear deltoids), bending at the knee and hip until the hip joint is at least below the knee cap, then coming back up.
+The squat is typically the most difficult lift for beginners to master, as it is a somewhat foreign movement for most people.
+It is a movement that is very commonly trained across all strength sports, as it is one of the best exercise for overall development of strength and musculature -- although neither bodybuilders nor Olympic lifters compete in the squat, athletes of both sports typically have extremely strong squats.
 {% include giphy.html giphy="3o7TKEsvu1qKuiUiaI" width=480 height=270 caption="The Squat" %}
+
+Of all lifts, the bench press in the one people are probably the most familiar with.
+It's the lift that all the cool kids did in high school and the one that you're most likely to see if you walk in to a commercial gym.
+The powerlifting bench press is a little more strict than the common conception of the lift though.
+The rules, although there are some details that vary between federation, generally look something like this:
+
+  1. The lifter unracks the bar (optionally with the help of a spotter) then waits, holding the barbell with elbows locked, until the judge gives the "begin" command.
+  2. The lifter lowers the bar until it touches their chest, pauses with the bar motionless on their chest.
+  3. When the judge gives the "press" command, the lifter lifts the bar up until their elbows are locked out again.
+  <!-- TODO: get a better video -->
+Because it primarily involves the upper body, the bench press is the lift that people can usually move the least weight with.
+{% include giphy.html giphy="l2JhLomu4DtDwq33G" width=480 height=853 caption="The Bench Press" %}
+
+The deadlift is simply reaching down to a loaded barbell and standing up until the knees and back are straight and the hips are locked out.
+While most people can learn the technique fairly quickly, it is often the lift people dread training the most, since it is both the lift that people can typically move the most weight with and is known to be fairly taxing on the nervous system.
+Unlike the squat or bench press, there is no eccentric or lowering phase of the lift -- the bar is lifted from a "dead" stop, hence the name --  making it very difficult to start the weight moving without the benefit of momentum or a stretch reflex.
+{% include giphy.html giphy="3oz8xHIQV4RmHpSPjq" width=480 height=270 caption="The Deadlift" %}
 
 Like Olypmic weightlifting, powerlifting is about trying to make the highest total by adding the best successful squat, bench press, and deadlift, with three attempts allowed for each lift and the same rule about weight increases as weightlifting.
 
 Unlike Olypmic weightlifting, the lifts are far less technical.
-While there can be a great deal of depth when it comes to mastering each lift, one can get started in powerlifting pretty quickly
+While there can be a great deal of depth when it comes to mastering each lift, one can get started in powerlifting pretty quickly, especially if one is already doing basic strength training -- it is a pretty beginner-friendly strength sport.
 
 ## Strongman
 
