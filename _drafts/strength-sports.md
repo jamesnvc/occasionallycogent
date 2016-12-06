@@ -65,9 +65,18 @@ The clean & jerk is two movements -- in the first part, the bar is brought from 
 <figcaption>The clean and jerk</figcaption>
 </figure>
 
+Both these movements, while requiring a great deal of strength to do with very heavy weights (which is obviously the goal), also necessitate incredible speed, mobility, power, and technique.
+While most other strength sports will let you substitute strength for technique to a certain extent, or muscle your way out of a bad position, in weightlifting being off by a centimeter can mean the difference between easily lifting a weight and completely missing.
+
+While I don't do Olypmic weightlifting myself (it is way too frustrating for me -- barely missing lifts not for want of strength, but for minor technique errors is not my thing), I do use some of the movements in my training.
+For throwing, the snatch and clean are very useful for training power development and transfer of force from the lower body to upper -- exactly what you need to throw things far!
+
 # Sports I do do
 
 ## Powerlifting
+
+The first strength sport I became involved in is powerlifting.
+It's a fairly common one to learn about when first getting into lifting weights, because it's essentially the sport of doing three of the most popular/important lifts: The squat, bench press, and deadlift.
 
 ## Strongman
 
