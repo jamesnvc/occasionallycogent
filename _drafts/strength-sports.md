@@ -106,9 +106,48 @@ Like Olypmic weightlifting, powerlifting is about trying to make the highest tot
 Unlike Olypmic weightlifting, the lifts are far less technical.
 While there can be a great deal of depth when it comes to mastering each lift, one can get started in powerlifting pretty quickly, especially if one is already doing basic strength training -- it is a pretty beginner-friendly strength sport.
 
+While powerlifting was my first sport, became less interested in competing in it after the meet I did at the end of 2015 (Ontario Provincials).
+I did alright, but didn't have the meet I wanted to and felt a little burned out.
+I was starting to feel bored with my training and how static it was -- since powerlifting is just about maxing out in three lifts, training is very focused on those three lifts.
+So, I decided to focus on other sports for a while.
+
 ## Strongman
+
+I got into strongman in 2015.
+I'd been interested in it for a while, because it looked like so much fun.
+
+The strongman competition people are most likely to be familiar with is "World's Strongest Man", which is the most prestigious competition in the sport.
+Strongman competitions are somewhat unique among strength sports, as competitions are not set events, but are always varied.
+There are some events that are common -- Atlas stones are a signature event, there is often some sort of overhead pressing event -- but every competition will be different.
+
+<!-- TODO: upload some strongman gifs -->
+
+Because of the variety, training for strongman can be challenging.
+I approached it by generally just doing standard barbell movements (e.g. back & front squats, overhead press, deadlifts) and trying to build my general strength.
+To compete at a high level though (I only compete at a local beginner level), one requires specific event training, which requires a fair amount of space and money for special implements.
+
+Strongman is in some ways the apex of absolute strength.
+Because, unlike weightlifting & powerlifting, it typically has no weightclasses, it is the sport of the very very large and exceptionally strong.
+Many great powerlifters (like Žydrūnas Savickas) and Olympic weightlifters (like Mikhail "Misha" Koklyaev) have gone on to be top-level strongmen (Žydrūnas (or "Big Z") has won World's Strongest Man many times).
+
+Although strongman is very fun to do, I didn't see much of a future in it for me.
+While I could do alright at the level I was competing at just doing general strength training, I knew that to get better, I would need to do more event-specific training.
+I was also fairly concerned about the level of injury associated with such training.
 
 ## Highland Games
 
+The journey has led me to the sport I currently enjoy the most, highland games.
+Also know as the Scottish Heavy Events, highland games are the traditional Scottish throwing events.
+Competitions take place at Scottish festivals (of which there are many in Ontario), which are very fun environments to be in[^events].
+
+Highland games consist of the following events:
+
+<!-- TODO: throwing gifs -->
+
+  1. Braemar stone: a 20-26lb stone is thrown as far as possible without an approach (like shotput, but your feet can't move before throwing)
+  2. Open stone: a 16-22lb stone is thrown as far as possible, approaching however you like (so, like shotput but with a rock instead of a nice sphere)
+  3. Light hammer: a 16lb weight on a long shaft is spun around the head and thrown as far as possible (similar to the Olympic hammer, but typically thrown with feet planted, instead of spinning like a top)
+
   [^fat]: which is somewhat hard to nail down with an exact percentage, but generally thought to be in the 3-5% range for pros
   [^cleanpress]: It was removed due to difficulty in judging, since the rules required the press be "strict", which could be very hard to objectively determine.
+  [^events]: Especially compared to powerlifting meets, which are typically fairly dour things held in grungy gyms and attended by no-one but other powerliftings and maybe family, if you can convince them.
