@@ -146,8 +146,6 @@ Competitions take place at Scottish festivals (of which there are many in Ontari
 
 Highland games consist of the following events:
 
-<!-- TODO: throwing gifs -->
-
   1. Braemar stone: a 20-26lb stone is thrown as far as possible without an approach (like shotput, but your feet can't move before throwing)
   2. Open stone: a 16-22lb stone is thrown as far as possible, approaching however you like (so, like shotput but with a rock instead of a nice sphere)
   3. Light hammer: a 16lb weight on a long shaft is spun around the head and thrown as far as possible (similar to the Olympic hammer, but typically thrown with feet planted, instead of spinning like a top)
@@ -159,6 +157,11 @@ Highland games consist of the following events:
   9. The sheaf (not sheep!) toss. Throwing a 20lb bale using a pitchfork for height. I believe this is exclusively a North American event.
 
 {% include giphy.html giphy="3o7TKKsjEGWu4QI7RK" width=480 height=270 caption="Heavy weight for distance" %}
+
+For all of the events events except WOB and sheaf (and kind of the caber), each thrower gets three attempts and whoever gets the best result across their attempts wins.
+On the vertical throwing events, each athlete gets three attempts at each height, where if the get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
+The height keeps increasing until there is one winner, with second place being whoever got the second furthest, and so on.
+The events are typically scored where the winner of the event gets one point, second gets two points, etc, with whoever has the lowest point total at the end of the day being the victor.
 
 One thing I've found that I really like about training for highland games is that I actually feel like an athlete again.
 I think I'd gotten to used to fairly static, slow movements, so needing to move explosively and with coordination was a pretty fun thing.
