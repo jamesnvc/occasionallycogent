@@ -148,6 +148,9 @@ Highland games consist of the following events:
   2. Open stone: a 16-22lb stone is thrown as far as possible, approaching however you like (so, like shotput but with a rock instead of a nice sphere)
   3. Light hammer: a 16lb weight on a long shaft is spun around the head and thrown as far as possible (similar to the Olympic hammer, but typically thrown with feet planted, instead of spinning like a top)
 
+One thing I've found that I really like about training for highland games is that I actually feel like an athlete again.
+I think I'd gotten to used to fairly static, slow movements, so needing to move explosively and with coordination was a pretty fun thing.
+
   [^fat]: which is somewhat hard to nail down with an exact percentage, but generally thought to be in the 3-5% range for pros
   [^cleanpress]: It was removed due to difficulty in judging, since the rules required the press be "strict", which could be very hard to objectively determine.
   [^events]: Especially compared to powerlifting meets, which are typically fairly dour things held in grungy gyms and attended by no-one but other powerliftings and maybe family, if you can convince them.
