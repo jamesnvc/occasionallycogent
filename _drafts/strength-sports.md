@@ -120,7 +120,11 @@ The strongman competition people are most likely to be familiar with is "World's
 Strongman competitions are somewhat unique among strength sports, as competitions are not set events, but are always varied.
 There are some events that are common -- Atlas stones are a signature event, there is often some sort of overhead pressing event -- but every competition will be different.
 
-<!-- TODO: upload some strongman gifs -->
+{% include giphy.html giphy="yWQpOK53gzN60" width=480 height=270 caption="Hafþór Björnsson doing the Atlas stones" %}
+
+{% include giphy.html giphy="l2JhtYjqSBoqqN2j6" width=480 height=853 caption="Axle press -- note the axle is much thicker than a normal barbell & doesn't rotate" %}
+
+Even for the events that usually show up, the exact parameters of the event will often change, so even if there's always, say, a log press event, sometimes it will be trying to work up to one rep, as heavy as possible, sometimes it will be doing as many reps as possible at a certain weight in a certain amount of time, sometimes it might be a medley (e.g. lift a log, then a circus dumbbell, then an axle).
 
 Because of the variety, training for strongman can be challenging.
 I approached it by generally just doing standard barbell movements (e.g. back & front squats, overhead press, deadlifts) and trying to build my general strength.
@@ -147,6 +151,14 @@ Highland games consist of the following events:
   1. Braemar stone: a 20-26lb stone is thrown as far as possible without an approach (like shotput, but your feet can't move before throwing)
   2. Open stone: a 16-22lb stone is thrown as far as possible, approaching however you like (so, like shotput but with a rock instead of a nice sphere)
   3. Light hammer: a 16lb weight on a long shaft is spun around the head and thrown as far as possible (similar to the Olympic hammer, but typically thrown with feet planted, instead of spinning like a top)
+  4. Heavy hammer: like light hammer, but with a 22lb weight.
+  5. Light weight for distance (often abbreviated LWFD): a 28lb weight on a chain is thrown as far as possible. Athletes typically take a spinning approach, somewhat reminiscent of Olympic hammer throwers.
+  6. Heavy weight for distance (HWFD): Like the LWFD, but with a 56lb weight. It hurts a lot.
+  7. Weight over bar, or WOB. Throwing the same 56lb weight (but with a shorter chain) vertically over a bar.
+  8. The signature event of highland games, the caber. A long log is balanced on the end in the hands, then the athlete tries to make it turn perfectly end-over-end. Unlike the other events, this one is about accuracy, not distance.
+  9. The sheaf (not sheep!) toss. Throwing a 20lb bale using a pitchfork for height. I believe this is exclusively a North American event.
+
+{% include giphy.html giphy="3o7TKKsjEGWu4QI7RK" width=480 height=270 caption="Heavy weight for distance" %}
 
 One thing I've found that I really like about training for highland games is that I actually feel like an athlete again.
 I think I'd gotten to used to fairly static, slow movements, so needing to move explosively and with coordination was a pretty fun thing.
