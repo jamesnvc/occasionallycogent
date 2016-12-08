@@ -156,12 +156,15 @@ Highland games consist of the following events:
   8. The signature event of highland games, the caber. A long log is balanced on the end in the hands, then the athlete tries to make it turn perfectly end-over-end. Unlike the other events, this one is about accuracy, not distance.
   9. The sheaf (not sheep!) toss. Throwing a 20lb bale using a pitchfork for height. I believe this is exclusively a North American event.
 
-{% include giphy.html giphy="3o7TKKsjEGWu4QI7RK" width=480 height=270 caption="Heavy weight for distance" %}
+{% include giphy.html giphy="3o7TKKsjEGWu4QI7RK" width=480 height=270 caption="Heavy weight for distance. Staying balanced while spinning with 56lb is a bit of a challenge" %}
 
-For all of the events events except WOB and sheaf (and kind of the caber), each thrower gets three attempts and whoever gets the best result across their attempts wins.
+For all of the events events except WOB and sheaf (and kind of the caber[^caber]), each thrower gets three attempts and whoever gets the best result across their attempts wins.
 On the vertical throwing events, each athlete gets three attempts at each height, where if the get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
 The height keeps increasing until there is one winner, with second place being whoever got the second furthest, and so on.
 The events are typically scored where the winner of the event gets one point, second gets two points, etc, with whoever has the lowest point total at the end of the day being the victor.
+
+It is interesting to note that the implements lifted in highland games are the lightest of all the strength sports discussed -- the heaviest thing is the caber, which is usually (significantly) under 200lb.
+However, high-level highland games athletes are very large and very strong people (i.e. on the order of pro strongman size -- in fact, the aforementioned strongman Mikhail Koklyaev is also a high-level highland games athlete) as it takes a great deal of strength to throw the weights as far as they do (and, although they are light compared to what someone might squat, trying to spin & throw a 56lb weight is much harder than it might seem).
 
 One thing I've found that I really like about training for highland games is that I actually feel like an athlete again.
 I think I'd gotten to used to fairly static, slow movements, so needing to move explosively and with coordination was a pretty fun thing.
@@ -169,3 +172,4 @@ I think I'd gotten to used to fairly static, slow movements, so needing to move 
   [^fat]: which is somewhat hard to nail down with an exact percentage, but generally thought to be in the 3-5% range for pros
   [^cleanpress]: It was removed due to difficulty in judging, since the rules required the press be "strict", which could be very hard to objectively determine.
   [^events]: Especially compared to powerlifting meets, which are typically fairly dour things held in grungy gyms and attended by no-one but other powerliftings and maybe family, if you can convince them.
+  [^caber]: Athletes get three attempts to turn the caber, but often that will qualify you for the challenge caber, which you get another three attempts on.
