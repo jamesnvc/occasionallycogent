@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Strength Sports"
+date: 2016-12-08 15:05:39
 tags: strength-sports
 ---
 
