@@ -22,25 +22,26 @@ The two most popular and well-known of the strength sports are also the sports I
 
 ## Bodybuilding
 
-Bodybuilding is probably the first thing most people think of when they hear "strength sports" -- Giant ripped guys in little underwear on stage.
+Bodybuilding is probably the first thing most people think of when they hear "strength sports" -- Giant ripped monsters in little underwear on stage.
 
 Competitions are basically beauty pageants -- the competitors hit their required poses, judges compare them, and decide who looks best.
-There are more details as to exactly how they compare and what they're looking for, but it essentially comes down to who looks "the best".
+There are more details as to exactly how they compare and what they're looking for, but it essentially comes down to who looks like they have the most muscle and least bodyfat.
 
-Bodybuilding is basically the sport of discipline.
+Bodybuilding is the sport of discipline.
 While the other sports also require lots of time in the gym training, bodybuilding takes that as a given and additionally demands an obsessive, 24-hour-a-day lifestyle adherence.
 To reach the contest-ready levels of bodyfat[^fat]  while maintaining as much of their hard-earned muscle as possible necessitates a demented level of attention to detail over every aspect of one's life -- not just meticulous meal prep, but supplementation, sleep, hydration, and even sodium levels must be micromanaged.
 
-There is somewhat of a dichotomy of bodybuilding between "natural" -- meaning drug-tested -- federations and, uh, "otherwise".
-If you've ever seen a bodybuilder in a magazine or whatever, they are probably in the later camp.
+There is somewhat of a dichotomy in bodybuilding between "natural" -- meaning drug-tested -- federations and, uh, "otherwise".
+If you've ever seen a bodybuilder in a magazine or whatever, they are probably in the latter camp.
 Professional bodybuilding has kind of become an exercise in seeing how far various pharmaceuticals can take the human body -- at this point, steroids are virtually a given (in, if rumors are true, gargantuan doses at the higher levels) and the current frontier is in peptides (e.g. human growth hormone, insulin), diuretics (to get as shredded as possible), and who knows what else.
 
-For professional bodybuilders, the highest honor is the Olympia, a year competition created by Joe Weider.
+For professional bodybuilders, the highest honor is the Olympia, an annual competition created by Joe Weider.
 There a number of other competitions such as the Arnold (at the eponymous festival in Ohio, which also features (among many other things) strongman and powerlifting competitions) but the Olypmia is the pinnacle.
 
 There is a great deal of politics in the sport, since judging winners is an inherently subject thing, but I am very unqualified to talk about that.
 
-Most athletes in the other strength sports take some cues from body builders when it comes to dieting to stay in their weight class or when trying to put on additional muscle mass in their off-season.
+Most athletes in the other strength sports take their cues from body builders when it comes to dieting to stay in their weight class or when trying to put on additional muscle mass in their off-season.
+If you want to learn how to get huge and/or lean, bodybuilders are the people to consult.
 
 ## Olympic Weightlifting
 
@@ -51,7 +52,7 @@ Olympic lifting consists of two lifts, the snatch and the clean & jerk.
 There used to be a third lift, the clean & press, but it was removed in 1972[^cleanpress].
 Both lifts are very technical and performed at very high speeds.
 
-The snatch is simply bringing the bar from the ground to overhead in one smooth movement.
+The snatch is "simply" bringing the bar from the ground to overhead in one smooth movement.
 
 {% include giphy.html giphy="7UlpDeliqdoqs" width=480 height=269 caption="The snatch" %}
 
@@ -68,6 +69,9 @@ Attempts in Olypmic lifting usually increase by fairly small amounts, typically 
 
 While I don't do Olypmic weightlifting myself (it is way too frustrating for me -- barely missing lifts not for want of strength, but for minor technique errors is not my thing), I do use some of the movements in my training.
 For throwing, the snatch and clean are very useful for training power development and transfer of force from the lower body to upper -- exactly what you need to throw things far!
+
+If you want to develop power & explosiveness as well as mobility, learning the Olympic movements is a great idea.
+You probably will need a coach though, as these are movements that are very difficult to learn on one's own.
 
 # Sports I do do
 
@@ -105,6 +109,9 @@ Like Olypmic weightlifting, powerlifting is about trying to make the highest tot
 
 Unlike Olypmic weightlifting, the lifts are far less technical.
 While there can be a great deal of depth when it comes to mastering each lift, one can get started in powerlifting pretty quickly, especially if one is already doing basic strength training -- it is a pretty beginner-friendly strength sport.
+
+Powerlifting is a great sport for people just getting interested in any sort of strength training even (or especially!) if they have no athletic background.
+The sort of training that is typically recommended to beginners involves primarily doing the powerlifting movements and, in my experience, the atmosphere at most powerlifting events is very welcoming and friendly.
 
 While powerlifting was my first sport, became less interested in competing in it after the meet I did at the end of 2015 (Ontario Provincials).
 I did alright, but didn't have the meet I wanted to and felt a little burned out.
@@ -158,6 +165,8 @@ Highland games consist of the following events:
 
 {% include giphy.html giphy="3o7TKKsjEGWu4QI7RK" width=480 height=270 caption="Heavy weight for distance. Staying balanced while spinning with 56lb is a bit of a challenge" %}
 
+{% include giphy.html giphy="l3vR0cdczoynnIznO" width=480 height=853 caption="Sort of highland games hammer. This is using a training strap, real hammers would be a metal sphere at the end of a PVC pipe" %}
+
 For all of the events events except WOB and sheaf (and kind of the caber[^caber]), each thrower gets three attempts and whoever gets the best result across their attempts wins.
 On the vertical throwing events, each athlete gets three attempts at each height, where if the get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
 The height keeps increasing until there is one winner, with second place being whoever got the second furthest, and so on.
@@ -168,6 +177,15 @@ However, high-level highland games athletes are very large and very strong peopl
 
 One thing I've found that I really like about training for highland games is that I actually feel like an athlete again.
 I think I'd gotten to used to fairly static, slow movements, so needing to move explosively and with coordination was a pretty fun thing.
+
+# Coda
+
+I have really enjoyed participating in strength sports over the last few years.
+While I love training for its own sake, being a competitive athlete really gives me much more motivation and gives me more concrete goals.
+
+I highly recommend strength training for everyone -- it is a very efficient way to make pretty much everything physically better -- and if you enjoy strength training, I think you'd enjoy competing as well.
+All the events I've competed at have been delightful to participate in and everyone I've ever met there -- even people I'm going head-to-head against -- have all been very kind and helpful people.
+Give it a try!
 
   [^fat]: which is somewhat hard to nail down with an exact percentage, but generally thought to be in the 3-5% range for pros
   [^cleanpress]: It was removed due to difficulty in judging, since the rules required the press be "strict", which could be very hard to objectively determine.
