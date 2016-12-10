@@ -23,6 +23,8 @@ The most important thing for me is just having become comfortable drawing things
 
 Next year, I'd like to try out digital drawing...we'll see!
 
+(oh, and I am represented in the drawings as a pterodactyl for reasons sorta explained [previously][ptero])
+
 {% include image.html alt="January" url="/images/learning_to_draw/January combined.jpg" caption="January, just starting, using pencils exclusively" %}
 {% include image.html alt="February" url="/images/learning_to_draw/February combined.jpg" caption="February" %}
 {% include image.html alt="March" url="/images/learning_to_draw/March combined.jpg" caption="March; at the end of the month, I decide to start using ink"%}
@@ -36,3 +38,4 @@ Next year, I'd like to try out digital drawing...we'll see!
 {% include image.html caption="November" alt="November" url="/images/learning_to_draw/November combined.jpg" %}
 
   [eevee]: https://eev.ee
+  [ptero]: /clojure/clojurescript/2016/11/25/perlin-noise-in-clojure.html#fn:1
