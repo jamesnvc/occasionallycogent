@@ -53,3 +53,5 @@ I really like Neal Stephenson's science fiction (*Anathem* is one of my favourit
 The first three-quarters of the book was absolutely brutal and nail-biting; the latter quarter was a really neat science fiction story.
 
 # Between the World and Me, by Ta-Nehisi Coates
+
+Ta-Nehisi Coates is a fantastic author and *Between the World and Me* is a really painful description of what it is to be a black man in the United States.
