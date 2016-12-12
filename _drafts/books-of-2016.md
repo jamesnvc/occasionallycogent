@@ -36,10 +36,10 @@ I was hoping that I'd be able to find the equivalent of *The Battle Cry of Freed
 
 Remnick's book is the story of the fall of Soviet Union, but in the process, it describes a lot about its history and how that lead to its downfall.
 
-
 # The Ground Beneath Her Feet, by Salman Rushdie
 
 Salman Rushdie has become one of my favourite fiction authors and has kind of overtaken Michael Ondaatje in my affection (although I'll always love *In the Skin of a Lion*).
+*The Ground Beneath Her Feet* is a very entertaining story that's kind of an alternate reality and stays very engaging despite how much the timelines jump around.
 
 # Two Years Eight Months and Twenty-Eight Nights, by Salman Rushdie
 
