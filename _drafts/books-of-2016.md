@@ -9,6 +9,11 @@ Luckily, the Toronto Public Library is amazing, there is a branch near me, and i
 
 In no particular order, books I read enjoyed this year.
 
+# Between the World and Me, by Ta-Nehisi Coates
+
+Ta-Nehisi Coates is a fantastic author and *Between the World and Me* is a really painful description of what it is to be a black man in the United States.
+This is definitely a book that I have been and will continue to recommend everyone reads.
+
 # The Battle Cry of Freedom, by James McPherson
 
 Amazingly comprehensive history of the American civil war.
@@ -29,12 +34,15 @@ Really enjoyed it -- Caro does a great job of making what could be incredibly te
 One thing I found very interesting reading the book is how important women were to the story of Robert Moses:
 He was in many ways shaped by his mother & grandmother and his downfall was precipitated by a group of women.
 
+This book was both very entertaining and enlightening -- I feel like I have a better grasp of how cities are shaped and the ways in which political power is applied and made manifest.
+
 # Lenin's Tomb, by David Remnick
 
 At some point, I became interested in knowing more about the history of the Soviet Union.
 I was hoping that I'd be able to find the equivalent of *The Battle Cry of Freedom* for the Soviet Union, but apparently it is something too large to be contained in a single volume.
 
 Remnick's book is the story of the fall of Soviet Union, but in the process, it describes a lot about its history and how that lead to its downfall.
+I definitely want to read more about the topic, but this was a good volume to understand how the Union came to an end.
 
 # The Ground Beneath Her Feet, by Salman Rushdie
 
@@ -52,6 +60,10 @@ Very fun story, really cool to read a fantasy novel written by one of the greate
 I really like Neal Stephenson's science fiction (*Anathem* is one of my favourite books) and his newest was no exception.
 The first three-quarters of the book was absolutely brutal and nail-biting; the latter quarter was a really neat science fiction story.
 
-# Between the World and Me, by Ta-Nehisi Coates
+# The Oxford History of the French Revolution, by William Doyle
 
-Ta-Nehisi Coates is a fantastic author and *Between the World and Me* is a really painful description of what it is to be a black man in the United States.
+One of the books I read in the pursuit of my aforementioned desire to know more about the Soviet Union mentioned how ideas of the French Revolution played a big part in the fomenting of the Russian Revolution.
+This made me realize that basically all I know about the French Revolution comes from *A Tale of Two Cities* and one story arc of *The Sandman*, so I decided to do something about that.
+
+This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
+It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
