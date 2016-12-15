@@ -26,6 +26,8 @@ Confusing things I ran in to:
   - There's a method on `Sequence` called `replaceMap(aMap)`, which I *think* will let me give keys & values, where the keys are replaced with the values.
     Kinda annoying that the class it says I can use isn't mentioned in the guide at all (although it is in the reference at least).
   - I wanted to try to give it a little GUI, as Io apparently has bindings for various graphics frameworks, but there doesn't seem to be any sort of documentation
+  - It looks like there's some sample code in the repo, but apparently I can't load OpenGL because my Io doesn't have Cairo?
+  - I tried building Io from source myself, but Cairo still isn't linked in & I don't know why
 
 
   [iolang]: http://iolanguage.org/
