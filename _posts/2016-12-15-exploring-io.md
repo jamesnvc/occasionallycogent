@@ -59,7 +59,7 @@ Post := Object clone do(
 SGMLElement tagText := method(tag, elementsWithName(tag) first allText)
 
 Sequence xmlDecodeEntities := method(
-  self asMutable replaceMap(Map clone with("&quot;", "\"", "&amp;", "&"))
+  asMutable replaceMap(Map clone with("&quot;", "\"", "&amp;", "&"))
 )
 
 Note := Object clone do(
@@ -83,7 +83,6 @@ Note := Object clone do(
 
   fetchBody := method(api,
     if(body == nil,
-      // TODO: body is wraped in [CDATA[[general]], should extract it
       fetchedXml := api apiRequest("/notes/#{id}/" interpolate)
       body = self extractTextCdata(fetchedXml)
     )
