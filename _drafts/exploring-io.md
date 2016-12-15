@@ -20,6 +20,12 @@ Confusing things I ran in to:
   - I got a little thrown off by newlines being statement separators -- it makes sense, but I think I was thinking of it as too much of a concatenative language.
   - I like that I can see the slots objects have, but I'd love if I could also see docs for methods in-repl too (like Clojure's ability to look up vars' docstrings)
   - Trying to figure out how to parse CDATA from XML -- there is apparently an XmlReader module, but no documentation, I can't figure out how to make SGML do something sensible with CDATA content
+  - Eventually figured out, through trial-and-error, how to make the XML reader descend to the node of interest and read the CDATA.
+    Unfortunately, it didn't decode the XML-entities, so I need to figure out how to do that now
+  - There's a method on `Sequence` called unescape, which says it "replaces escape codes with escape characters", doesn't seem to do what I want
+  - There's a method on `Sequence` called `replaceMap(aMap)`, which I *think* will let me give keys & values, where the keys are replaced with the values.
+    Kinda annoying that the class it says I can use isn't mentioned in the guide at all (although it is in the reference at least).
+  - I wanted to try to give it a little GUI, as Io apparently has bindings for various graphics frameworks, but there doesn't seem to be any sort of documentation
 
 
   [iolang]: http://iolanguage.org/
