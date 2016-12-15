@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Exploring Io"
+date: 2016-12-15 12:02:24
 ---
 
 I first heard about the [Io programming language][iolang] quite a while ago -- I believe I saw it in [Steve Yegge's][steveyegge][^yegge] sidebar when I was still in high school and just starting to get interested in different programming languages.
