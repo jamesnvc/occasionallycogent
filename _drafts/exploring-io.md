@@ -28,6 +28,124 @@ Confusing things I ran in to:
   - I wanted to try to give it a little GUI, as Io apparently has bindings for various graphics frameworks, but there doesn't seem to be any sort of documentation
   - It looks like there's some sample code in the repo, but apparently I can't load OpenGL because my Io doesn't have Cairo?
   - I tried building Io from source myself, but Cairo still isn't linked in & I don't know why
+  - Thought about making a terminal UI with curses, but the addon is commented out & apparently source files are missing
+
+I think Io is a neat language, but I found it a little annoying to try to make standalone things with it.
+Next time I need an embedded language, I think it'd be fun to try using Io instead of Lua though.
+
+Here's the little pinboard client I made:
+
+{% highlight io %}
+Post := Object clone do(
+  url ::= nil
+  description ::= nil
+  time ::= nil
+
+  fromXML := method(xml,
+    url = xml attributes at("href")
+    description = xml attributes at("description")
+    time = Date clone fromString(xml attributes at("time"),
+                                  "%Y-%m-%d'T'%H:%M:%S%Z")
+    self
+  )
+
+  asString := method(
+    "Post: url=#{url} desc=#{description} time=#{time}" interpolate
+  )
+
+)
+
+SGMLElement tagText := method(tag, elementsWithName(tag) first allText)
+
+Sequence xmlDecodeEntities := method(
+  self asMutable replaceMap(Map clone with("&quot;", "\"", "&amp;", "&"))
+)
+
+Note := Object clone do(
+  id ::= nil
+  title ::= nil
+  hash ::= nil
+  created ::= nil
+  updated ::= nil
+  length ::= nil
+  body ::= nil
+
+  fromXML := method(xml,
+    id = xml attributes at("id")
+    title = xml tagText("title")
+    hash = xml tagText("hash")
+    created = Date clone fromString(xml tagText("created_at"), "%Y-%m-%d %H:%M:%S")
+    updated = Date clone fromString(xml tagText("updated_at"), "%Y-%m-%d %H:%M:%S")
+    length = xml tagText("length")
+    self
+  )
+
+  fetchBody := method(api,
+    if(body == nil,
+      // TODO: body is wraped in [CDATA[[general]], should extract it
+      fetchedXml := api apiRequest("/notes/#{id}/" interpolate)
+      body = self extractTextCdata(fetchedXml)
+    )
+    body
+  )
+
+  extractTextCdata := method(xmlText,
+    reader := XmlReader clone
+    reader parseString(xmlText)
+    reader next
+    reader moveToElement
+    while(reader name != "text", reader read)
+    reader readString xmlDecodeEntities
+  )
+
+)
+
+Pinboard := Object clone do(
+  authToken ::= nil
+
+  apiURL := "https://api.pinboard.in/v1"
+
+  apiRequest := method(path,
+    // TODO: error handling
+    HCRequest with(
+      HCUrl with("#{apiURL}#{path}?auth_token=#{authToken}" interpolate)
+    ) connection sendRequest response content
+  )
+
+  recent := method(
+    apiRequest("/posts/recent") asXML elementsWithName("post") \
+      map(post, Post clone fromXML(post))
+  )
+
+  notes := method(
+    apiRequest("/notes/list") asXML elementsWithName("note") \
+      map(note, Note clone fromXML(note))
+  )
+
+)
+{% endhighlight %}
+
+So using it looks something like
+
+{% highlight io %}
+doFile("pinboard.io")
+
+pin := Pinboard clone
+
+pin setAuthToken("pinboard-username:secret-token")
+
+recentBookmarks := pin recent
+
+notes := pin notes
+
+notes println
+
+firstNote := notes first
+
+firstNote fetchBody(pin) println
+
+firstNote println
+{% endhighlight %}
 
 
   [iolang]: http://iolanguage.org/
