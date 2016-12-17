@@ -67,3 +67,7 @@ This made me realize that basically all I know about the French Revolution comes
 
 This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
 It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
+
+# Ancillary {Justice, Sword, Mercy}
+
+A science-fiction trilogy that I binge-read through.
