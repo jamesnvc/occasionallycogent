@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Trying Kakoune"
+date: 2016-12-18 14:58:24
 ---
 
 [Kakoune][kakoune] is an interesting new (to me, at least) text editor that aims at improving on vim's efficiency of text editing.
