@@ -67,3 +67,12 @@ This made me realize that basically all I know about the French Revolution comes
 
 This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
 It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
+
+# Ancillary {Justice, Sword, Mercy}
+
+A science-fiction trilogy that I binge-read through.
+There's a neat conceit in the series where the native language of the main character uses "she" as the generic pronoun, which is definitely a change from most military sci-fi.
+The story is a very interesting one, about the nature of self and intelligence, which is also very fun.
+Highly recommended.
+
+Each book in the trilogy is stand-alone, but you'll definitely get the most out of it if you read them all back-to-back.
