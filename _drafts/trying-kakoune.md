@@ -29,11 +29,11 @@ While Kakoune seems really cool and does a lot of neat stuff out of the box, I f
 It kind of reminds me of how I felt about Opera back in the day -- better out of the box than Firefox, but I'd already invested the effort in getting Firefox there, so why bother?
 The built-in autocomplete is really nice, the way selections & multiple cursors work is very slick, I'm not sure if it's *that* much better than vim -- plus, (neo)vim just has so much more plugins and such already built for it.
 Kakoune might be better from a blank slate, but my neovim setup, even after trimming a lot of unused plugins, currently has 68 different packages added to it, which is pretty hard to compete with.
-While there is an extension API of sorts, it seems to essentially be "shell out to external tools" -- conceptually simple, but not ideal for building something complex and interactive like [fugitive][] or [vim-fireplace][], I think.
+While there is an extension API of sorts, it seems to essentially be "shell out to external tools" -- conceptually simple, but perhaps not well-suited for building something complex and interactive like [fugitive][] or [vim-fireplace][].
 
 At this point, I think that unless your editor has [tpope][] using it, it's going to be a tough sell.
 
-I think I'll keep my eye on Kakoune -- at the very least, it might be handy for some future bulk text surgery -- but I don't think I'll be switching from neovim right now.
+I'll keep my eye on Kakoune -- at the very least, it might be handy for some future bulk text surgery -- but I don't think I'll be switching from neovim right now.
 
   [kakoune]: http://kakoune.org/
   [tabs]: https://github.com/godlygeek/tabular
