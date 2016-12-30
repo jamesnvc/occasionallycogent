@@ -47,7 +47,7 @@ I definitely want to read more about the topic, but this was a good volume to un
 # The Ground Beneath Her Feet, by Salman Rushdie
 
 Salman Rushdie has become one of my favourite fiction authors and has kind of overtaken Michael Ondaatje in my affection (although I'll always love *In the Skin of a Lion*).
-*The Ground Beneath Her Feet* is a very entertaining story that's kind of an alternate reality and stays very engaging despite how much the timelines jump around.
+*The Ground Beneath Her Feet* is a entertaining story that's kind of an alternate reality and stays engaging despite how much the timelines jump around.
 
 # Two Years Eight Months and Twenty-Eight Nights, by Salman Rushdie
 
@@ -60,14 +60,6 @@ Very fun story, really cool to read a fantasy novel written by one of the greate
 I really like Neal Stephenson's science fiction (*Anathem* is one of my favourite books) and his newest was no exception.
 The first three-quarters of the book was absolutely brutal and nail-biting; the latter quarter was a really neat science fiction story.
 
-# The Oxford History of the French Revolution, by William Doyle
-
-One of the books I read in the pursuit of my aforementioned desire to know more about the Soviet Union mentioned how ideas of the French Revolution played a big part in the fomenting of the Russian Revolution.
-This made me realize that basically all I know about the French Revolution comes from *A Tale of Two Cities* and one story arc of *The Sandman*, so I decided to do something about that.
-
-This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
-It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
-
 # Ancillary {Justice, Sword, Mercy}
 
 A science-fiction trilogy that I binge-read through.
@@ -76,3 +68,11 @@ The story is a very interesting one, about the nature of self and intelligence, 
 Highly recommended.
 
 Each book in the trilogy is stand-alone, but you'll definitely get the most out of it if you read them all back-to-back.
+
+# The Oxford History of the French Revolution, by William Doyle
+
+One of the books I read in the pursuit of my aforementioned desire to know more about the Soviet Union mentioned how ideas of the French Revolution played a big part in the fomenting of the Russian Revolution.
+This made me realize that basically all I know about the French Revolution comes from *A Tale of Two Cities* and one story arc of *The Sandman*, so I decided to do something about that.
+
+This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
+It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
