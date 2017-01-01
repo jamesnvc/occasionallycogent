@@ -36,6 +36,7 @@ Next year, I'd like to try out digital drawing…we'll see!
 {% include image.html caption="September" alt="September" url="/images/learning_to_draw/September combined.jpg" %}
 {% include image.html caption="October" alt="October" url="/images/learning_to_draw/October combined.jpg" %}
 {% include image.html caption="November" alt="November" url="/images/learning_to_draw/November combined.jpg" %}
+{% include image.html caption="December" alt="December" url="/images/learning_to_draw/December combined.jpg" %}
 
   [eevee]: https://eev.ee
   [ptero]: /clojure/clojurescript/2016/11/25/perlin-noise-in-clojure.html#fn:1
