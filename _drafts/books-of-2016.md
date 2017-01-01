@@ -76,3 +76,11 @@ This made me realize that basically all I know about the French Revolution comes
 
 This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
 It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
+
+# Citizens, by Simon Schama
+
+A follow-up to *The Oxford History of the French Revolution*, this was the other top-recommended history of the topic.
+The consensus seemed to be that the *Oxford History* was the best overview and this was the best book for getting a more down-to-earth view of what the Revolution was like for the citizens of the country.
+
+I found it a nice contrast, reading it immediately after the previous one; the author has a much more prominent voice and seems a bit of contraries vis-à-vis the causes of the Revolution.
+I am definitely glad I read this one second, as I think I would be completely lost otherwise -- this book is much less of a linear narrative and more of a depth-first examination of a number of aspects.
