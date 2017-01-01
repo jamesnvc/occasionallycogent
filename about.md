@@ -8,7 +8,7 @@ Hi! My name is James Norman Vladimir Cash.
 
 I usually go by jamesnvc on the internet.
 
-I'm the co-founder of a software company that is working on a number of different things -- some that are public at the moment are [Braid chat][braid] and [Rookie][getrookie].
+I'm the co-founder of a software company called [Bloom][bloom] that is working on a number of things -- some that are public at the moment are [Braid chat][braid] and [Rookie][getrookie].
 
 I live in Toronto, Canada and have lived here my whole life (except a brief internship in California).
 
@@ -24,5 +24,6 @@ Photo by the lovely & talented <a href="https://instagram.com/magic.santos/">Ama
 </figcaption>
 </figure>
 
+  [bloom]: http://bloomventures.io/
   [braid]: https://github.com/braidchat/braid
   [getrookie]: https://www.getrookie.com
