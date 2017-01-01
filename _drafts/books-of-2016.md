@@ -9,12 +9,12 @@ Luckily, the Toronto Public Library is amazing, there is a branch near me, and i
 
 In no particular order, books I read enjoyed this year.
 
-# Between the World and Me, by Ta-Nehisi Coates
+# *Between the World and Me*, by Ta-Nehisi Coates
 
 Ta-Nehisi Coates is a fantastic author and *Between the World and Me* is a really painful description of what it is to be a black man in the United States.
 This is definitely a book that I have been and will continue to recommend everyone reads.
 
-# The Battle Cry of Freedom, by James McPherson
+# *The Battle Cry of Freedom*, by James McPherson
 
 Amazingly comprehensive history of the American civil war.
 
@@ -24,7 +24,7 @@ I saw Ta-Nehisi Coates recommend it on Twitter as one of the best one-volume his
 It was excellent -- like the next book in the list, the author does an excellent job of making all the small details of economics and politics riveting.
 Having never learned about the American civil war in school, this book gave me an excellent overview of the event, one that I hope will help me better understand the bewildering American psyche.
 
-# The Power Broker, by Robert Caro
+# *The Power Broker*, by Robert Caro
 
 The biography of Robert Moses, the man that essentially single-handedly shaped New York.
 
@@ -36,7 +36,7 @@ He was primarily shaped by his mother & grandmother and his downfall was precipi
 
 This book was both entertaining and enlightening -- I feel like I have a better grasp of how cities are shaped and the ways in which political power is applied and made manifest.
 
-# Lenin's Tomb, by David Remnick
+# *Lenin's Tomb*, by David Remnick
 
 At some point, I became interested in knowing more about the history of the Soviet Union.
 I was hoping that I'd be able to find the equivalent of *The Battle Cry of Freedom* for the Soviet Union, but apparently it is something too large to be contained in a single volume.
@@ -44,25 +44,25 @@ I was hoping that I'd be able to find the equivalent of *The Battle Cry of Freed
 Remnick's book is the story of the fall of Soviet Union, but in the process, it describes a lot about its history and how that lead to its downfall.
 I definitely want to read more about the topic, but this was a good volume to understand how the Union came to an end.
 
-# The Ground Beneath Her Feet, by Salman Rushdie
+# *The Ground Beneath Her Feet*, by Salman Rushdie
 
 Salman Rushdie has become one of my favourite fiction authors and has kind of overtaken Michael Ondaatje in my affection (although I'll always love *In the Skin of a Lion*).
 *The Ground Beneath Her Feet* is a entertaining story that's kind of an alternate reality and stays engaging despite how much the timelines jump around.
 
 I don't want to spoil it, just read it.
 
-# Two Years Eight Months and Twenty-Eight Nights, by Salman Rushdie
+# *Two Years Eight Months and Twenty-Eight Nights*, by Salman Rushdie
 
 I read this right after *The Ground Beneath Her Feet*, which I think worked well (it made me realize the significance of the time span that repeatedly came up in that previous story).
 It was much shorter than that previous story and much more straight-up fantasy than I expected.
 Very fun story, really cool to read a fantasy novel written by one of the greatest novelists of all time.
 
-# Seveneves, by Neal Stephenson
+# *Seveneves*, by Neal Stephenson
 
 I really like Neal Stephenson's science fiction (*Anathem* is one of my favourite books) and his newest was no exception.
 The first three-quarters of the book was absolutely brutal and nail-biting; the latter quarter was a really neat science fiction story.
 
-# Ancillary {Justice, Sword, Mercy}, by Ann Leckie
+# *Ancillary {Justice, Sword, Mercy}*, by Ann Leckie
 
 A science-fiction trilogy that I binge-read through.
 There's a neat conceit in the series where the native language of the main character uses "she" as the generic pronoun, which is definitely a change from most military sci-fi.
@@ -71,7 +71,7 @@ Highly recommended.
 
 Each book in the trilogy is stand-alone, but you'll definitely get the most out of it if you read them all back-to-back.
 
-# The Oxford History of the French Revolution, by William Doyle
+# *The Oxford History of the French Revolution*, by William Doyle
 
 One of the books I read in the service of my aforementioned desire to know more about the Soviet Union mentioned how ideas of the French Revolution played a big part in the fomenting of the Russian Revolution.
 This made me realize that basically all I know about the French Revolution comes from *A Tale of Two Cities* and one story arc of *The Sandman*, so I decided to do something about that.
@@ -79,7 +79,7 @@ This made me realize that basically all I know about the French Revolution comes
 This book was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
 It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
 
-# Citizens, by Simon Schama
+# *Citizens*, by Simon Schama
 
 A follow-up to *The Oxford History of the French Revolution*, this was the other top-recommended history of the topic.
 The consensus seemed to be that the *Oxford History* was the best overview and this was the best book for getting a more down-to-earth view of what the Revolution was like for the citizens of the country.
