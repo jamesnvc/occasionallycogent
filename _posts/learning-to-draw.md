@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Learning to Draw"
+date: 2016-01-01 10:41:29
 categories: art drawing learning
 ---
 
