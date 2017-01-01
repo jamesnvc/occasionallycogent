@@ -62,7 +62,7 @@ Very fun story, really cool to read a fantasy novel written by one of the greate
 I really like Neal Stephenson's science fiction (*Anathem* is one of my favourite books) and his newest was no exception.
 The first three-quarters of the book was absolutely brutal and nail-biting; the latter quarter was a really neat science fiction story.
 
-# Ancillary {Justice, Sword, Mercy}
+# Ancillary {Justice, Sword, Mercy}, by Ann Leckie
 
 A science-fiction trilogy that I binge-read through.
 There's a neat conceit in the series where the native language of the main character uses "she" as the generic pronoun, which is definitely a change from most military sci-fi.
