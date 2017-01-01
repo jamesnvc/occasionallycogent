@@ -26,13 +26,13 @@ Having never learned about the American civil war in school, this book gave me a
 
 # The Power Broker, by Robert Caro
 
-The history of the man that essentially single-handedly shaped New York.
+The biography of Robert Moses, the man that essentially single-handedly shaped New York.
 
-I'd seen this book recommended as a bunch of peoples' all-time favourite books, so I thought it warranted a read.
-Really enjoyed it -- Caro does a great job of making what could be incredibly tedious minutiae really gripping.
+I'd seen this book recommended as a bunch of peoples' all-time favourite book, so I thought it warranted a read.
+It absolutely did -- Caro does a great job of making what could be incredibly tedious minutiae gripping.
 
 One thing I found interesting reading the book is how important women were to the story of Robert Moses:
-He was in many ways shaped by his mother & grandmother and his downfall was precipitated by a group of women.
+He was primarily shaped by his mother & grandmother and his downfall was precipitated by a group of women.
 
 This book was both entertaining and enlightening -- I feel like I have a better grasp of how cities are shaped and the ways in which political power is applied and made manifest.
 
@@ -49,6 +49,8 @@ I definitely want to read more about the topic, but this was a good volume to un
 Salman Rushdie has become one of my favourite fiction authors and has kind of overtaken Michael Ondaatje in my affection (although I'll always love *In the Skin of a Lion*).
 *The Ground Beneath Her Feet* is a entertaining story that's kind of an alternate reality and stays engaging despite how much the timelines jump around.
 
+I don't want to spoil it, just read it.
+
 # Two Years Eight Months and Twenty-Eight Nights, by Salman Rushdie
 
 I read this right after *The Ground Beneath Her Feet*, which I think worked well (it made me realize the significance of the time span that repeatedly came up in that previous story).
@@ -64,17 +66,17 @@ The first three-quarters of the book was absolutely brutal and nail-biting; the 
 
 A science-fiction trilogy that I binge-read through.
 There's a neat conceit in the series where the native language of the main character uses "she" as the generic pronoun, which is definitely a change from most military sci-fi.
-The story is a very interesting one, about the nature of self and intelligence, which is also very fun.
+The story is a very interesting one, about the nature of self and intelligence, and is also very fun.
 Highly recommended.
 
 Each book in the trilogy is stand-alone, but you'll definitely get the most out of it if you read them all back-to-back.
 
 # The Oxford History of the French Revolution, by William Doyle
 
-One of the books I read in the pursuit of my aforementioned desire to know more about the Soviet Union mentioned how ideas of the French Revolution played a big part in the fomenting of the Russian Revolution.
+One of the books I read in the service of my aforementioned desire to know more about the Soviet Union mentioned how ideas of the French Revolution played a big part in the fomenting of the Russian Revolution.
 This made me realize that basically all I know about the French Revolution comes from *A Tale of Two Cities* and one story arc of *The Sandman*, so I decided to do something about that.
 
-This books was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
+This book was one of the top two recommendations when I went looking for definitive histories of the Revolution, so I started with it.
 It is maybe a tad dry, but it provided a very good overall view of the various factors that lead to the Revolution and the various aftermaths.
 
 # Citizens, by Simon Schama
@@ -82,5 +84,5 @@ It is maybe a tad dry, but it provided a very good overall view of the various f
 A follow-up to *The Oxford History of the French Revolution*, this was the other top-recommended history of the topic.
 The consensus seemed to be that the *Oxford History* was the best overview and this was the best book for getting a more down-to-earth view of what the Revolution was like for the citizens of the country.
 
-I found it a nice contrast, reading it immediately after the previous one; the author has a much more prominent voice and seems a bit of contraries vis-à-vis the causes of the Revolution.
+I found it a nice contrast, reading it immediately after the previous one; the author has a much more prominent voice and seems a bit of a contrarian vis-à-vis the causes of the Revolution.
 I am definitely glad I read this one second, as I think I would be completely lost otherwise -- this book is much less of a linear narrative and more of a depth-first examination of a number of aspects.
