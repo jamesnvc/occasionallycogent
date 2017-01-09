@@ -74,9 +74,51 @@ To make this work, `run-txns!` now looks like this:
   [txns]
   (let [tx-result @(d/transact conn txns)
         returns (->> txns
-                     (map (comp :return meta))
+                     (map (comp ::return meta))
                      (remove nil?))]
     (map #(% tx-result) returns)))
+{% endhighlight %}
+
+The final thing I wanted to add was having `run-txns!` do some validation, taking advantage of the fact that there is now only one place where `datomic.api/transact` is called.
+Similarly to how I handled return values of transactions, my idea was to have a "check" function in the metadata of a transaction.
+Then, `run-txns!` could take advantage of a neat Datomic function, [`with`](http://docs.datomic.com/clojure/index.html#datomic.api/with), which gives you a database that would be what happened if you evaluated a transaction, without actually running said transaction.
+
+The implementation now looks like this:
+{% highlight clojure %}
+(defn extract
+  "Like `map` but filter out nil results"
+  [f & colls]
+  (remove nil? (apply map f colls)))
+
+(defn run-txns!
+  [txns]
+  (let [[returns checks] ((juxt (partial extract ::return)
+                                  (partial extract ::check))
+                            (map meta txns))]
+      (when (seq checks)
+        (let [test-db (d/with (db) txns)]
+          (try
+            (doseq [check checks]
+              (check test-db))
+            (catch AssertionError e
+              (throw (ex-info "Transaction Failed"
+                              {::error (.getMessage e)}))))))
+      (let [tx-result @(d/transact conn txns)]
+        (map #(% tx-result) returns))))
+{% endhighlight %}
+
+And we can now write transactions that validate the results as follows
+
+{% highlight clojure %}
+(defn bot-watch-thread-txn
+  [bot-id thread-id]
+  [^{:braid.server.db/check
+     (fn [{:keys [db-after]}]
+       (assert
+         (= (get-in (d/entity db-after [:bot/id bot-id]) [:bot/group :group/id])
+            (get-in (d/entity db-after [:thread/id thread-id]) [:thread/group :group/id]))
+         (format "Bot %s tried to watch thread not in its group %s" bot-id thread-id)))}
+   [:db/add [:bot/id bot-id] :bot/watched [:thread/id thread-id]]])
 {% endhighlight %}
 
   [Braid]: https://braidchat.com
