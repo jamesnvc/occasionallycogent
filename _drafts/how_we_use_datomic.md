@@ -125,6 +125,8 @@ And we can now write transactions that validate the results as follows
 {% endhighlight %}
 `
 
+So, why bother doing all of this?
+
   [Braid]: https://braidchat.com
   [bloom]: http://bloomventures.io
   [Datomic]: http://datomic.com/
