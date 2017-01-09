@@ -84,6 +84,7 @@ Similarly to how I handled return values of transactions, my idea was to have a 
 Then, `run-txns!` could take advantage of a neat Datomic function, [`with`](http://docs.datomic.com/clojure/index.html#datomic.api/with), which gives you a database that would be what happened if you evaluated a transaction, without actually running said transaction.
 
 The implementation now looks like this:
+`
 {% highlight clojure %}
 (defn extract
   "Like `map` but filter out nil results"
@@ -106,9 +107,11 @@ The implementation now looks like this:
       (let [tx-result @(d/transact conn txns)]
         (map #(% tx-result) returns))))
 {% endhighlight %}
+`
 
 And we can now write transactions that validate the results as follows
 
+`
 {% highlight clojure %}
 (defn bot-watch-thread-txn
   [bot-id thread-id]
@@ -120,6 +123,7 @@ And we can now write transactions that validate the results as follows
          (format "Bot %s tried to watch thread not in its group %s" bot-id thread-id)))}
    [:db/add [:bot/id bot-id] :bot/watched [:thread/id thread-id]]])
 {% endhighlight %}
+`
 
   [Braid]: https://braidchat.com
   [bloom]: http://bloomventures.io
