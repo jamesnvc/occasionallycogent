@@ -7,6 +7,8 @@ title: "How We Use Datomic"
 We originally started with Datomic because it seemed like a pretty neat piece of software and fit well with our Clojure-all-the-way-down setup.
 After having used it for around a year, I recently did a big refactor of our database layer and how we interact with Datomic.
 
+# What We Did
+
 Originally, we used Datomic in the way we usually use traditional databases -- have a `db` namespace, which has a bunch of functions to wrap calling db functions.
 While this was reasonable when using a SQL database (since the db functions themselves are defined in SQL, using [YesQL][] that need a bit of wrapping), it seemed like we were kind of missing out on some of the advantages of Datomic.
 Since Datomic's `transact` function takes vectors of normal Clojure data, there seemed to be an opportunity to coalesce how our code communicated with the database.
@@ -125,7 +127,13 @@ And we can now write transactions that validate the results as follows
 {% endhighlight %}
 BLOOP`
 
-So, why bother doing all of this?
+# Why We Did It
+
+So, what did we gain from all this?
+
+For one, our transaction functions are now all declarative, which I think fits better with the philosophy of using immutable data structures.
+Instead of all our database functions performing arbitrary state changes, we isolate state changes to one function, `run-txns!`.
+Also, because of this isolation, we have one good spot in which to perform validation.
 
   [Braid]: https://braidchat.com
   [bloom]: http://bloomventures.io
