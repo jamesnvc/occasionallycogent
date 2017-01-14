@@ -135,6 +135,8 @@ For one, our transaction functions are now all declarative, which I think fits b
 Instead of all our database functions performing arbitrary state changes, we isolate state changes to one function, `run-txns!`.
 Also, because of this isolation, we have one good spot in which to perform validation.
 
+The biggest reason though, was that it was fun!
+
   [Braid]: https://braidchat.com
   [bloom]: http://bloomventures.io
   [Datomic]: http://datomic.com/
