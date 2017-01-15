@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How We Use Datomic"
+date: 2017-01-15 09:06
 ---
 
 [Braid][], the new type of chat client that [we've][bloom] been building uses the [Datomic][] database for storage.
