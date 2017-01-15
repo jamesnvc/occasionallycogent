@@ -133,7 +133,12 @@ Also, because of this isolation, we have one good spot in which to perform valid
 
 The biggest reason though, was that it was fun!
 
+Definitely send me a [message][twitter] or a [comment on the pull request][braid_gh_pr] or [open your own pr][braid_gh] if you have opinions!
+
   [Braid]: https://braidchat.com
   [bloom]: http://bloomventures.io
   [Datomic]: http://datomic.com/
   [YesQL]: https://github.com/krisajenkins/yesql
+  [twitter]: https://twitter.com/jamesnvc
+  [braid_gh_pr]: https://github.com/braidchat/braid/pull/90
+  [braid_gh]: https://github.com/braidchat/braid
