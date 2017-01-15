@@ -10,7 +10,7 @@ After having used it for around a year, I recently did a big refactor of our dat
 # What We Did
 
 Originally, we used Datomic in the way we usually use traditional databases -- have a `db` namespace, which has a bunch of functions to wrap calling db functions.
-While this was reasonable when using a SQL database (since the db functions themselves are defined in SQL, using [YesQL][] that need a bit of wrapping), it seemed like we were kind of missing out on some of the advantages of Datomic.
+While this was reasonable when using a SQL database (since the db functions themselves are defined in SQL (using [YesQL][]) and need a bit of wrapping), it seemed like we were missing out on some of the advantages of Datomic.
 Since Datomic's `transact` function takes vectors of normal Clojure data, there seemed to be an opportunity to coalesce how our code communicated with the database.
 
 My goal was to refactor things so that instead of all the database functions directly calling `transact`, they would return transaction data, that would be passed into one wrapper function.
@@ -49,7 +49,7 @@ In our codebase, the main offenders are our various `create-*` functions, which 
          (d/entity db-after))))
 {% endhighlight %}
 
-The solution I came up with was using Clojure's metadata facilities to indicate that a particular transaction wanted to return something.
+The solution I came up with was using Clojure's metadata facilities to indicate that a particular transaction wishes to return something.
 Then, `run-txns!` can gather all said functions and return the result of giving all of them the created database.
 
 `create-entity!` now becomes the following:
@@ -68,7 +68,7 @@ Then, `run-txns!` can gather all said functions and return the result of giving 
                (after-fn)))})]))
 {% endhighlight %}
 
-(the `after-fn` parameter is there because the various `create-*!` functions want to call a `db->*` function to change tho returned entity into a map in the format Braid expects to use)
+(the `after-fn` parameter is there because the various `create-*!` functions want to call a `db->*` function to change the returned entity into a map in the format Braid expects to use)
 
 To make this work, `run-txns!` now looks like this:
 {% highlight clojure %}
@@ -133,7 +133,7 @@ Also, because of this isolation, we have one good spot in which to perform valid
 
 The biggest reason though, was that it was fun!
 
-Definitely send me a [message][twitter] or a [comment on the pull request][braid_gh_pr] or [open your own pr][braid_gh] if you have opinions!
+Definitely send me a [message][twitter] or a [comment on the pull request][braid_gh_pr] or [open your own PR][braid_gh] if you have opinions!
 
   [Braid]: https://braidchat.com
   [bloom]: http://bloomventures.io
