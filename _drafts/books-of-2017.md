@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Books of 2017"
+---
 
 - Citizens, Simon Schama
 - Rules for Radicals, Saul Alinksy
