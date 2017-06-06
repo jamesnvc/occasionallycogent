@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Static Type Systems"
+title: "I Don't Want to be Static"
 date: 2017-06-06 10:48:25
 ---
 
