@@ -39,7 +39,7 @@ Professional bodybuilding has kind of become an exercise in seeing how far vario
 For professional bodybuilders, the highest honor is the Olympia, an annual competition created by Joe Weider.
 There a number of other competitions such as the Arnold (at the eponymous festival in Ohio, which also features (among many other things) strongman and powerlifting competitions) but the Olypmia is the pinnacle.
 
-There is a great deal of politics in the sport, since judging winners is an inherently subject thing, but I am very unqualified to talk about that.
+There is a great deal of politics in the sport, since judging winners is an inherently subjective thing, but I am very unqualified to talk about that.
 
 Most athletes in the other strength sports take their cues from body builders when it comes to dieting to stay in their weight class or when trying to put on additional muscle mass in their off-season.
 If you want to learn how to get huge and/or lean, bodybuilders are the people to consult.
@@ -169,7 +169,7 @@ Highland games consist of the following events:
 {% include giphy.html giphy="l3vR0cdczoynnIznO" width=480 height=853 caption="Sort of highland games hammer. This is using a training strap, real hammers would be a metal sphere at the end of a PVC pipe" %}
 
 For all of the events events except WOB and sheaf (and kind of the caber[^caber]), each thrower gets three attempts and whoever gets the best result across their attempts wins.
-On the vertical throwing events, each athlete gets three attempts at each height, where if the get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
+On the vertical throwing events, each athlete gets three attempts at each height, where if they get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
 The height keeps increasing until there is one winner, with second place being whoever got the second furthest, and so on.
 The events are typically scored where the winner of the event gets one point, second gets two points, etc, with whoever has the lowest point total at the end of the day being the victor.
 

@@ -14,7 +14,7 @@ It's kind of like Kakoune's normal mode is vim's visual mode.
 Not sure how I feel about that.
 
 Kakoune's biggest feature that vim lacks is multiple cursors (à la Sublime Text).
-The way it works seems pretty solid to me (I have never been anything but perplexed by Sublime) -- you make your selection then "split" the selection by provided a regex, resulting in each split having it's own cursor.
+The way it works seems pretty solid to me (I have never been anything but perplexed by Sublime) -- you make your selection then "split" the selection by providing a regex, resulting in each split having its own cursor.
 You can now move all the cursors in sync and edit from all of them.
 There some built-in things that take advantage to this, like `&` to align all cursors by adding spaces, allowing you to do things like vim's [Tabular][tabs] extension by default.
 
@@ -22,7 +22,7 @@ The multi-selection is really neat and powerful, but I don't do multi-line editi
 
 One thing that immediately bothered me about Kakoune is it's lack of ability to do splits (i.e. view multiple buffers in a window simultaneously).
 Instead (to simplify implementation, I think?) you are encourage to use your window manager or terminal multiplexer to create multiple windows, then have multiple Kakoune clients connect to the same session.
-I really like being able to create splits in vim willy-nilly, to quickly look at another file, to get a temporary buffer, or whatever, so this more heavyweight approach to window manager isn't my cup of tea.
+I really like being able to create splits in vim willy-nilly, to quickly look at another file, to get a temporary buffer, or whatever, so this more heavyweight approach to window management isn't my cup of tea.
 While I appreciate that it's kind of redundant when using tmux or a tiling window manager, Kakoune's approach makes it just un-ergonomic enough to discourage me from quickly opening splits.
 I suppose that could be fixed with some tmux aliases though...
 
