@@ -22,7 +22,7 @@ The multi-selection is really neat and powerful, but I don't do multi-line editi
 
 One thing that immediately bothered me about Kakoune is it's lack of ability to do splits (i.e. view multiple buffers in a window simultaneously).
 Instead (to simplify implementation, I think?) you are encourage to use your window manager or terminal multiplexer to create multiple windows, then have multiple Kakoune clients connect to the same session.
-I really like being able to create splits in vim willy-nilly, to quickly look at another file, to get a temporary buffer, or whatever, so this more heavyweight approach to window manager isn't my cup of tea.
+I really like being able to create splits in vim willy-nilly, to quickly look at another file, to get a temporary buffer, or whatever, so this more heavyweight approach to window management isn't my cup of tea.
 While I appreciate that it's kind of redundant when using tmux or a tiling window manager, Kakoune's approach makes it just un-ergonomic enough to discourage me from quickly opening splits.
 I suppose that could be fixed with some tmux aliases though...
 
