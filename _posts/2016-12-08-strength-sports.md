@@ -169,7 +169,7 @@ Highland games consist of the following events:
 {% include giphy.html giphy="l3vR0cdczoynnIznO" width=480 height=853 caption="Sort of highland games hammer. This is using a training strap, real hammers would be a metal sphere at the end of a PVC pipe" %}
 
 For all of the events events except WOB and sheaf (and kind of the caber[^caber]), each thrower gets three attempts and whoever gets the best result across their attempts wins.
-On the vertical throwing events, each athlete gets three attempts at each height, where if the get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
+On the vertical throwing events, each athlete gets three attempts at each height, where if they get it they stay in (and don't need to take any more throws at that height), and if they miss all three, they are out.
 The height keeps increasing until there is one winner, with second place being whoever got the second furthest, and so on.
 The events are typically scored where the winner of the event gets one point, second gets two points, etc, with whoever has the lowest point total at the end of the day being the victor.
 
