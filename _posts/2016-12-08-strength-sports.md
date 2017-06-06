@@ -39,7 +39,7 @@ Professional bodybuilding has kind of become an exercise in seeing how far vario
 For professional bodybuilders, the highest honor is the Olympia, an annual competition created by Joe Weider.
 There a number of other competitions such as the Arnold (at the eponymous festival in Ohio, which also features (among many other things) strongman and powerlifting competitions) but the Olypmia is the pinnacle.
 
-There is a great deal of politics in the sport, since judging winners is an inherently subject thing, but I am very unqualified to talk about that.
+There is a great deal of politics in the sport, since judging winners is an inherently subjective thing, but I am very unqualified to talk about that.
 
 Most athletes in the other strength sports take their cues from body builders when it comes to dieting to stay in their weight class or when trying to put on additional muscle mass in their off-season.
 If you want to learn how to get huge and/or lean, bodybuilders are the people to consult.
