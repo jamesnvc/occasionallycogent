@@ -14,7 +14,7 @@ It's kind of like Kakoune's normal mode is vim's visual mode.
 Not sure how I feel about that.
 
 Kakoune's biggest feature that vim lacks is multiple cursors (à la Sublime Text).
-The way it works seems pretty solid to me (I have never been anything but perplexed by Sublime) -- you make your selection then "split" the selection by provided a regex, resulting in each split having it's own cursor.
+The way it works seems pretty solid to me (I have never been anything but perplexed by Sublime) -- you make your selection then "split" the selection by providing a regex, resulting in each split having it's own cursor.
 You can now move all the cursors in sync and edit from all of them.
 There some built-in things that take advantage to this, like `&` to align all cursors by adding spaces, allowing you to do things like vim's [Tabular][tabs] extension by default.
 
