@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Static Type Systems"
+date: 2017-06-06 10:48:25
 ---
 
 Most of the work I've been doing the last few years has been in Clojure.
