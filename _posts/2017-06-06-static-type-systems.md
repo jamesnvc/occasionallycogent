@@ -6,7 +6,7 @@ date: 2017-06-06 10:48:25
 
 Most of the work I've been doing the last few years has been in Clojure.
 I really enjoy the language, but I always like trying to experiment with new things and challenge myself.
-To that end, the last few side projects ([Braid][braid] bots) have been written in different languages -- [two][giphybot] [bots][octocat] in Rust, [one][greeterbot] in Haskell, and one (currently in progress) in Elixir.
+To that end, the last few side projects ([Braid][braid] bots) have been written in different languages -- [two][giphybot] [bots][octocat] in Rust, [one][greeterbot] in Haskell, and [one][emailbot] in Elixir.
 
  I wanted to try using Rust and Haskell because I've been using more dynamically typed languages the past few years and I wanted to gain a better appreciation of strong type systems.
  Haskell in particular is a language that I've been interested in on-and-off since high school and really wanted to finally wrap my head around.
@@ -33,5 +33,6 @@ I will be keeping my eye on the strong-typing family & continuing to experiment 
   [giphybot]: https://github.com/braidchat/giphybot
   [octocat]: https://github.com/braidchat/octocat
   [greeterbot]: https://github.com/braidchat/greeterbot
+  [emailbot]: https://github.com/braidchat/emailbot
   [profunctor]: https://arxiv.org/pdf/1703.10857v1.pdf
   [asked]: https://mastodon.social/web/statuses/5394625
