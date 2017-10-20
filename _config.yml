@@ -8,6 +8,7 @@ url: "http://occasionallycogent.com" # the base hostname & protocol for your sit
 twitter_username: jamesnvc
 github_username:  jamesnvc
 instagram_username: jamesnvc
+mastodon_name: jamesnvc@mastodon.social
 
 # Build settings
 markdown: kramdown
