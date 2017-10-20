@@ -17,7 +17,7 @@ I made a diagram to explain the fairly arcane `RxCy` key coordinates that users 
 It was a bit tedious to clean up the SVGs that the Keyboardio folks have provided for keycap layout, but it looks much nicer than using one of the cruder keyboard layout tools!
 
 Having some of the fire for using the keyboard stirred in me again, I also did some work on my own custom layout.
-Something I thought would be neat was adding a Greek letter numpad on the left hand on the layer that has the numpad on the right.
+Something I thought would be neat was adding a Greek letter numpad on the left hand on the layer that has the numpad on the right (I like to use Greek letters for variable names in mathy code).
 The implementation of this was fairly straightforward, but after adding it, I started getting a warning when compiling the sketch that I was running out of dynamic memory (i.e. SRAM, as opposed to program memory or EEPROM).
 Algernon was very helpful on the forums and, although I was initially confused as to what on earth was taking up so much memory, as my sketch is all enums, functions, and PROGMEM, I eventually realized some of the plugins I was using were talking up a ton of memory.
 

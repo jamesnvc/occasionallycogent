@@ -10,7 +10,7 @@ Model 01 status:
 Arrived in Perrysburg, Ohio; still on track to receive it Monday.
 
 The day started with a very nice email from the CTO of a company called [Dygma][] that is making a keyboard (possibly two? I think they have the extant [Shortcut][] and the new [Raise][]) that will be using Kaleidoscope and wants to have a nice graphical configuration tool in Chrysalis.
-They said that they had seen the things I had started pushing on the repo and had heard from Simon that I'd be helping out on the project and wanted to let me know that my work is appreciated.
+They said that they had seen the things I had started pushing on the repo, had heard from Simon that I'd be helping out on the project, and wanted to let me know that my work is appreciated.
 
 It was a very nice way to start the day and really emphasized how I ended the last post about working on Chrysalis & Kaleidoscope, about how rewarding it can be to do work that others appreciate.
 
