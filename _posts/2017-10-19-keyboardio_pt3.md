@@ -56,7 +56,7 @@ This single-file plugin defines one enum, is included by most plugins, but provi
 After learning how plugins need to inject non-conflicting key codes though, this finally made sense.
 The enum is used to define the range of raw, sixteen-bit values that each plugin will inject!
 
-The enum starts with `FIRST = 0xc000`, which is `11000000 00000000` in binary -- that is, flag bits `RESERVED` and `INJECTED` set, so the minimum value that could be injected by a plugin.
+The enum starts with `FIRST = 0xc000`, which is `11000000 00000000` in binary -- that is, flag bit `RESERVED` <strike>and `INJECTED` set, so the minimum value that could be injected by a plugin</strike>, plus another bit to reserve space for plugins operating without `kaleidoscope::ranges`.[^correction]
 From there we see the various plugins defining the ranges that they will use (e.g. the first is the OneShot plugin, from `OS_FIRST` to `OS_LAST`, plus some internal separation into one-shot modifiers and one-shot layers).
 
 I was very happy to have figured this out and wanted to make sure that, in the future, people could understand this without needing to read a bunch of source from other libraries & bug Algernon and Jesse on IRC, so I tried to write up what I had learned:
@@ -76,3 +76,5 @@ All in all, a productive & educational day.
   [Kaleidoscope-Ranges]: https://github.com/keyboardio/Kaleidoscope-Ranges/blob/master/src/Kaleidoscope-Ranges.h
   [ranges_pr]: https://github.com/keyboardio/Kaleidoscope-Ranges/pull/2
   [README]: https://github.com/keyboardio/Kaleidoscope-Ranges
+
+  [^correction]: Updated 20 October 2017: Thanks [Algernon for correcting my confusion](https://trunk.mad-scientist.club/@algernon/98860220164360732) about how `INJECTED` works -- that flag is for keyState, not the `Key`, to prevent infinite loops of plugins changing key codes and then changing the key that they just injected.
