@@ -4,7 +4,7 @@ date: 2017-10-19
 title: Keyboardio Cometh, Pt 3
 ---
 
-*Part one of an n-part series. [Part 1](/2017/10/16/keyboardio_pt1.html), [Part 2](/2017/10/18/keyboardio_pt2.html)*
+*Part three of an n-part series. [Part 1](/2017/10/16/keyboardio_pt1.html), [Part 2](/2017/10/18/keyboardio_pt2.html), [Part 4](/2017/10/22/keyboardio_pt4.html)*
 
 Model 01 status:
 Arrived in Perrysburg, Ohio; still on track to receive it Monday.

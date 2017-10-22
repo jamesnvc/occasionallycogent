@@ -5,7 +5,7 @@ title: Keyboardio Cometh, Pt 1
 tags: keyboardio
 ---
 
-*Part one of an n-part series. [Part 2](/2017/10/18/keyboardio_pt2.html), [Part 3](/2017/10/19/keyboardio_pt3.html)*
+*Part one of an n-part series. [Part 2](/2017/10/18/keyboardio_pt2.html), [Part 3](/2017/10/19/keyboardio_pt3.html), [Part 4](/2017/10/22/keyboardio_pt4.html)*
 
 I've been having a lot of fun today doing some contribution to the Keyboardio community.
 Now that people are starting to get their keyboards, new folks are coming on to the forums and asking questions that I can actually answer, despite not having a keyboard.

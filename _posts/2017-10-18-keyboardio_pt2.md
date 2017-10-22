@@ -4,7 +4,7 @@ date: 2017-10-18
 title: Keyboardio Cometh, Pt 2
 ---
 
-*Part two of an n-part series. [Part 1](/2017/10/16/keyboardio_pt1.html), [Part 3](/2017/10/19/keyboardio_pt3.html)*
+*Part two of an n-part series. [Part 1](/2017/10/16/keyboardio_pt1.html), [Part 3](/2017/10/19/keyboardio_pt3.html), [Part 4](/2017/10/22/keyboardio_pt4.html)*
 
 I am more excited than ever about Keyboardio things now.
 
