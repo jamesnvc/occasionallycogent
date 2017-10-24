@@ -4,7 +4,7 @@ date: 2017-10-22
 title: Keyboardio Cometh, Pt 4
 ---
 
-*Part one of an n-part series. [Part 1](/2017/10/16/keyboardio_pt1.html), [Part 2](/2017/10/18/keyboardio_pt2.html), [Part 3](/2017/10/19/keyboardio_pt3.html)*
+*Part four of an n-part series. [Part 1](/2017/10/16/keyboardio_pt1.html), [Part 2](/2017/10/18/keyboardio_pt2.html), [Part 3](/2017/10/19/keyboardio_pt3.html)*
 
 My Model 01 is scheduled to arrive tomorrow!
 I am so excited to finally be able to use this thing.
