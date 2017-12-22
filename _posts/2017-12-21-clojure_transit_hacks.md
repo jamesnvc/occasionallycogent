@@ -51,8 +51,8 @@ It seems that there isn't really an easy way so, after digging into the source o
         packer (.createPacker (MessagePack.) out)
         emitter (MsgpackEmitter. packer handlers)
         write-cache (fake-cache)
-        wrtr (proxy [Writer] []
-               (write [o]
+        wrtr (reify Writer
+               (write [_ o]
                  (try
                    (.emit emitter o false (.init write-cache))
                    (.flush out)
