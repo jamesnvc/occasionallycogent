@@ -242,3 +242,8 @@
     border-radius: 50%;
   }
 }
+
+.parabreak:after {
+    content: "🍁";
+    margin-left: 50%;
+}
