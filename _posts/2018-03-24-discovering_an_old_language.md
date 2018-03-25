@@ -25,6 +25,7 @@ I've been mainly using Clojure for the past few years, so I thought I was used t
 There are just so many things about it that I find so satisfying:
 The way that most things aren't indented more than one level makes following the flow of the logic very straightforward;
 the inclusion of DCGs is delightful -- it's like instead of having syntax for regular expressions, you have a syntax for parser generators, which is fantastic;
+[CLP(FD)][clpfd] is a really cool way of describing constraints over numbers ("Constraint Logic Programming over Finite Domains") so, for example, you can express things like "X is between 0 and 100, Y is X + 5, X modulo 7 is 3" and see all possible solutions;
 [pengines][], which I'm just learning about now, essentially let you easily expose a module over RPC;
 the underlying syntax is surprisingly very regular, using M-exprs instead of Lispy S-exprs, so it's actually very easy to dynamically re-write code, as you would with Lisp macros;
 and [SWI Prolog][swi-prolog] itself is a very solid distribution, with tons of built-in libraries.
@@ -44,3 +45,4 @@ I'm planning on continuing to make more things in Prolog (I'm particularly inter
   [msgpack]: http://www.swi-prolog.org/pack/list?p=msgpack
   [uuid]: http://www.swi-prolog.org/pack/list?p=uuid
   [pengines]: http://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/pengines.html%27)
+  [clpfd]: http://www.swi-prolog.org/man/clpfd.html
