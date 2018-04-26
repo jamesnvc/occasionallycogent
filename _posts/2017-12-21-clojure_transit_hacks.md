@@ -17,7 +17,7 @@ However, I ran in to an interesting problem this time.
 I was seeing some places, where I expected to see `~#list`, instead getting `^7`.
 
 It turns out this is Transit's [caching mechanism][transit-cache], which will replace repeated references to tag names and map keys with a reference to said tag or key, instead of having to write it repeatedly.
-While I'm sure this is beneficially when sending over a lot of data, with lots of duplicated keys, for this use case it's pretty undesirable.
+While I'm sure this is beneficial when sending over a lot of data with lots of duplicated keys, for this use case it's pretty undesirable.
 The only things that repeat are the tags and those are all fairly short.
 The real kicker for me though is that determining which symbol the cache code refers to requires knowing the order in which the reader encountered those symbols.
 This is because the cache code is just the encoded index of cacheable symbols encountered by the reader -- i.e. the first tag or keyword encountered would be `^1`, the second `^2`, and so on.
