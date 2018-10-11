@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on *Democracy in America*
+title: Thoughts on <i>Democracy in America</i>
 date: 2018-10-10
 ---
 
