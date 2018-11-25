@@ -38,7 +38,7 @@ However, it's not quite as simple as just defining a key binding to call our new
 Instead, we need to wrap them in an additional function with some helm boilerplate, like so:
 
 ```emacs-lisp
-(defun helm-file-switch-to-new-horiz-window ()
+(defun helm-file-switch-new-horiz-window ()
   (interactive)
   (with-helm-alive-p
     (helm-exit-and-execute-action #'helm-file-switch-to-new--horiz-window)))
